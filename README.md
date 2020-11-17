@@ -1,11 +1,11 @@
 # SEP11 Freedom Project
-by X
+by Jianping Chen
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about student using the content from thir own learning and daily leason to their own creation, reflect upon student's learing in blog and present the prouct and process. The purpose of this blog is to shows the prouct and how it is process and work.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a online academic forum for all age. This blog will walk through my process of independently studying firebase in order to make online Academic forum.
 
 ## Links
 
