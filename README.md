@@ -12,7 +12,7 @@ For my project, I am making a online academic forum for all age. This blog will 
 Product
 
 Presentation
-
+  
 ## Implications
 X
 
