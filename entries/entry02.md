@@ -1,7 +1,7 @@
 # Entry 2
-##### X/X/XX
+##### 11/30/2020
 
-Text
+ this is the second blog entry, 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
