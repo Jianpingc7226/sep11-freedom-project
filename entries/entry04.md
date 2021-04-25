@@ -57,6 +57,8 @@ firebase.auth().signInWithPopup(provider)
 <p>The skills I use are How to Google and Communication.</p>
 <p>I use the skill Communication, when I face a problem and lose direction on how to set up my firebase base, I ask for help from Slack and my teacher. They help me alot during my learning.</p>
 <p>I use the skill How to Google, when I don’t know how to access and use firebase authentication, I search up on google and found some videos that teach beginners like me to use firebase.</p>
+
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
