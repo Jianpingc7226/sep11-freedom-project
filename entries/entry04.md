@@ -36,8 +36,11 @@
 <p>first, I define the provider that I am using, which is the google auth provider</p>
 
 ``` javascript
-firebase.auth().signInWithPopup(provider)
+
+    firebase.auth().signInWithPopup(provider)
+
 ```
+
 <p>second, reference the firebase off library and call sign in with pop-up, passing at that “provider” as an argument.</p>
 <p>since this operation happens asynchronously which will return a promise, and with that promise, we can attach .then to it and use the user as a variable to do something like a document. write print out the Hellow with the user’s name. (all the user information will come from the actual Google account.</p>
 
