@@ -31,11 +31,12 @@
                     })
                     .catch(console.log)
   }
+  
 ```
-<br>
+
 <p>This bunch of code allows the user to log in with their Google account and print out their userName with the message.</p>
 <p>first, I define the provider that I am using, which is the google auth provider</p>
-<br
+
 ``` javascript
 
     firebase.auth().signInWithPopup(provider)
