@@ -18,6 +18,7 @@
 
 <p>I learned about firebase Authentication this weekend, with this I can allow users to sign in to my website using one or more(maybe in the future) sign-in methods, including email address and password sign-in, and federated identity providers such as Google Sign-in and Facebook Login(maybe in the future).</p>
 <p>This is the model I made with Firebase Authentication that allows the user to log in with their Google account: <p>
+
 ``` javascript
   function googleLogin(){
       const provider = new firebase.auth.GoogleAuthProvider();
@@ -31,16 +32,14 @@
                     })
                     .catch(console.log)
   }
-  
 ```
 
 <p>This bunch of code allows the user to log in with their Google account and print out their userName with the message.</p>
 <p>first, I define the provider that I am using, which is the google auth provider</p>
 
+
 ``` javascript
-
     firebase.auth().signInWithPopup(provider)
-
 ```
 
 <p>second, reference the firebase off library and call sign in with pop-up, passing at that “provider” as an argument.</p>
@@ -55,6 +54,7 @@
                     .catch(console.log)
   }
 ```
+
 <hr>
 
 ## Skills
