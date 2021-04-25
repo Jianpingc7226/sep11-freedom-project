@@ -3,7 +3,7 @@
 
 ## Sources
 
-<p>During this week, I start to try out the code I see before in the video. I successfully set up my firebase with the help of the Video [Getting Started with Firebase on the Web](https://www.youtube.com/watch?v=k1D0_wFlXgo) and the help of other friends on Slack. And so I followed the video [Firebase - Ultimate Beginner’s Guide](https://www.youtube.com/watch?v=9kRgVxULbag) and learned how to use the firebase authentication to let the user login.</p>
+<p>During this week, I start to try out the code I see before in the video. I successfully set up my firebase with the help of the Video [Getting Started with Firebase on the Web](https://www.youtube.com/watch?v=k1D0_wFlXgo) and the help of other friends on Slack. And so I followed the video [Firebase - Ultimate Beginner's Guide](https://www.youtube.com/watch?v=9kRgVxULbag) and learned how to use the firebase authentication to let the user login.</p>
 
 
 <hr>
